@@ -31,8 +31,9 @@ Just unzip plugin and move all of theme to plugins folder inside Wordpress direc
 == Screenshots ==
 
 == Changelog ==
-
 = 1.0 =
 First version release !
 
 == Upgrade Notice ==
+= 1.0 =
+First version release !
