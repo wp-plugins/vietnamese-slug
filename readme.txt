@@ -1,6 +1,6 @@
 === Vietnamese slug ===
 Contributors: mcjambi
-Tags: nice permalink, nice slug, permalink in vietnamese, vietnamese, vietnamese slug
+Tags: nice permalink, nice slug, permalink in vietnamese, vietnamese, vietnamese slug, duong dan tieng viet, tieng viet
 Requires at least: 3.0
 Tested up to: 4.2
 Stable tag: 1.0

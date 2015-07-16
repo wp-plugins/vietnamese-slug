@@ -6,7 +6,7 @@ Plugin URI: http://www.jamviet.com/
 Description: This plugin will help you have a nice permalink in Post, category or tag's slug if your blog in Vietnamese, This is the best version than ever !
 Author: Jam Việt
 Version: 1.0
-Tags:	nice permalink, nice slug, vietnamese permalink, vietnamese, vietnamese slug
+Tags: nice permalink, nice slug, permalink in vietnamese, vietnamese, vietnamese slug, duong dan tieng viet, tieng viet
 Author URI: http://www.jamviet.com
 Donate link: http://www.jamviet.com
 */
